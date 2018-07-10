@@ -25,7 +25,7 @@ bounty2.save()
 bounty1.danger_level = "ermagerddddd"
 bounty1.update()
 
-#p Bounty.all_names("Sheba")
+p Bounty.all_names("Sheba")
 p Bounty.all_ids('34')
 
 #bounty1.delete()
